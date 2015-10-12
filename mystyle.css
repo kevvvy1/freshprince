@@ -1,0 +1,23 @@
+
+body {
+	background-color: #CAE1FF;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+	font-family: verdana;
+}
+
+p, h2 {
+	text-align: center;
+}
+
+h2 {
+	color: #B0171F;
+	font-family: verdana;
+}
+
+a {
+	text-decoration: none;
+}
